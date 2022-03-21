@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from ble_lib import check_for_device
 import os
 import time
